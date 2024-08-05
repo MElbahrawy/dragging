@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(33, 33, 72) !important;
+}
+.container .row {
+  min-height: 100vh;
+}
+.container .border {
+  border-style: dotted !important;
+  border: 2px dotted white;
+}
+ul {
+  list-style: none;
+  padding-left: 0 !important;
+  min-height: 350px;
+}
+ul li {
+  background-color: blueviolet;
+  color: white;
+  padding: 15px;
+  cursor: grab;
+}
